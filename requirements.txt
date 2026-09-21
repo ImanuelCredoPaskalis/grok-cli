@@ -1,0 +1,5 @@
+curl_cffi>=0.7.0
+requests>=2.31.0
+playwright>=1.40.0
+# Optional: anti-detect engine for google mode (GOOGLE_ENGINE=camoufox)
+# camoufox>=0.4.0
